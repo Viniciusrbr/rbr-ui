@@ -14,7 +14,6 @@ const meta = {
 export default meta
 type Story = StoryObj<typeof meta>
 
-// Primary Button
 export const Default: Story = {
   args: {
     children: 'Button',
