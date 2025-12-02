@@ -1,6 +1,6 @@
 {
-  "name": "ui-kit-storybook",
-  "private": true,
+  "name": "rbr-ui",
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "lint": "eslint src --ext .ts,.tsx --fix",
